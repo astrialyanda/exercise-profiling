@@ -17,21 +17,20 @@
 <br>
 
 sebelum profiling
-![highestgpabefore1.png](..%2F..%2F..%2FPictures%2Fhighestgpabefore1.png)
-![Screenshot 2024-03-13 163038.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20163038.png)
-![Screenshot 2024-03-13 191538.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20191538.png)
-![Screenshot 2024-03-13 193519.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20193519.png)
+![guibeforeas.png](guibeforeas.png)
+![guibeforeasn.png](guibeforeasn.png)
+![guibeforehgpa2.png](guibeforehgpa2.png)
+![guibeforehgpa1.png](guibeforehgpa1.png)
 <br>
-![Screenshot 2024-03-13 163955.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20163955.png)
-![Screenshot 2024-03-13 194834.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20194834.png)
-![Screenshot 2024-03-13 195328.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20195328.png)
+![cmdbeforeas.png](cmdbeforeas.png)
+![cmdbeforeasn.png](cmdbeforeasn.png)
+![cmdbeforehgpa.png](cmdbeforehgpa.png)
 <br>
 sesudah profiling
-![Screenshot 2024-03-13 203734.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20203734.png)
-![Screenshot 2024-03-13 203405.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20203405.png)
-![Screenshot 2024-03-13 203156.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20203156.png)
+![guiafteras.png](guiafteras.png)
+![guiafterasn.png](guiafterasn.png)
+![guiafterhgpa.png](guiafterhgpa.png)
 <br>
-![Screenshot 2024-03-13 203907.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20203907.png)
-![Screenshot 2024-03-13 203511.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20203511.png)
-![Screenshot 2024-03-13 203305.png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%202024-03-13%20203305.png)
-
+![cmdafteras.png](cmdafteras.png)
+![cmdafterasn.png](cmdafterasn.png)
+![cmdafterhgpa.png](cmdafterhgpa.png)
